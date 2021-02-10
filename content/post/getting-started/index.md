@@ -28,18 +28,20 @@ image:
   placement: 2
   preview_only: false
 
-authors:
-- admin
-- 吳恩達
+#authors:
+#- admin
+#- 吳恩達
 
-tags:
-- Academic
-- 开源
+#tags:
+#- Academic
+#- 开源
 
-categories:
-- Demo
-- 教程
+#categories:
+#- Demo
+#- 教程
 ---
+## insert consent info here
+Any data will be 100% de-classified before use, stored securely, and only the two principal researchers on the project will have access to the de-classification key. If you change your mind after, you can also revoke your consent and any trace of your presence in the data will be deleted.
 
 ## Overview
 

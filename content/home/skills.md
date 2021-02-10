@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+- description: Collate how patients handle their illness
+  icon: comment
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Community practices
+- description: Document how patients are treated
+  icon: paper-plane
   icon_pack: fas
-  name: Photography
+  name: Diagnostic journeys
+- description: Publish community trends & make accessible
+  icon: satellite-dish
+  icon_pack: fas
+  name: Scientific accountability
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

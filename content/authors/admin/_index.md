@@ -10,6 +10,8 @@ role: quantifying diagnosis
 
 # Organizations/Affiliations to show in About widget
 organizations:
+- name: Garvan-Weizmann Centre for Cellular Genomics
+  url: https://www.garvan.org.au/research/garvan-weizmann
 - name: Garvan Institute of Medical Research
   url: https://www.garvan.org.au/
 
@@ -39,13 +41,13 @@ bio: Introducing anecdotally common practices in the autoimmune community to sci
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/SaraBallouz
+#social:
+#- icon: envelope
+#  icon_pack: fas
+#  link: '/#contact'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/SaraBallouz
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

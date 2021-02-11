@@ -59,6 +59,11 @@ bio: Introducing anecdotally common practices in the autoimmune community to sci
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
+#social:
+#  - icon_pack: fas
+#    icon: file-medical-alt
+#    name: Survey
+#    url: 'https://redcap.gimr.garvan.org.au/surveys/?s=DJWTL9FAEX'
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -77,3 +82,5 @@ highlight_name: false
 Did you know around 12% of Australians suffer from an autoimmune disease? And that over 80% of them are women? Symptoms are broad and overlapping with other disorders which makes diagnoses tough. As a direct result, diagnostic journeys can be long and frustrating. Anecdotally, we are aware that self medication and self diagnosis are rife in the community, and that this journey can impact (or be impacted by) mental health. Regretably, this information hasn't reached the research community. This presents a real problem, as some of these factors can change the results of studies, which can make interpretation confusing, or even worse, wrong.
 
 We think that needs to change. To do that, we have designed a survey to capture the experiences of the Spoonie community and we hope you help us gather this information - the more we can collate, the clearer any trends around medication, mental health and diagnosis will be. So, please help us document our collective life stories and write them into the scientific literature, so patients can be treated more adequately.
+
+# [Survey](https://redcap.gimr.garvan.org.au/surveys/?s=DJWTL9FAEX)

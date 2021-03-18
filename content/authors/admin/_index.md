@@ -84,21 +84,3 @@ Did you know around 12% of Australians suffer from an autoimmune disease? And th
 We think that needs to change. To do that, we have designed a survey to capture the experiences of the Australian Spoonie community and we hope you help us gather this information - the more we can collate, the clearer any trends around medication, mental health and diagnosis will be. So, please help us document our collective life stories and write them into the scientific literature, so patients can be treated more adequately.
 
 # [Survey](https://redcap.gimr.garvan.org.au/surveys/?s=DJWTL9FAEX)
-
-# Garvan Institute of Medical Research
-
-The Garvan Institute of Medical Research brings together world leading basic and translational researchers with expert clinicians. We are patient focused. Our researchers break down the barriers between traditional scientific disciplines to find solutions to disease.
-
-Our mission is to harness all the information encoded in our genome to better diagnose, treat, predict and prevent disease. Garvan’s research has global impact. Our scientists pioneer discoveries across four intersecting research themes. We lead the field in medical genomics, epigenetics, and cellular genomics; cancer; diseases of immunity and inflammation; and diseases of ageing affecting bone, brain and metabolism.
-
-## Garvan-Weizmann Centre for Cellular Genomics
-
-The Garvan-Weizmann Centre for Cellular Genomics is a research centre and service provider focused on understanding how our inherited DNA sequence is copied and  put into action in each of the 3 trillion nucleated cells of our body. We reveal the genomic details of individuals cells to better help doctors diagnose and treat diseases.
-
-Every cell and every organ in our body is assembled from a different combination of molecules encoded in our genome. Errors in those molecules can change the function of cells. Identifying and understanding these errors is central to almost every unsolved disease, from cancer to immune and inflammatory diseases to those of ageing in bone, brain and metabolism.
-
-Cellular genomics is making it possible to identify and analyse single cells, scan for cells containing errors, and use that information to better diagnose, treat, predict and prevent disease.
-
-It’s a technology that’s transforming biological and medical research. Through the Garvan-Weizmann Centre for Cellular Genomics, and the UNSW Cellular Genomics Futures Institute, researchers are beginning to understand health and disease, including cancer, immune diseases, and diseases of ageing at an unprecedented resolution.
-
-By bridging the information gulf between genomic DNA sequence information and standard clinical measures of tissue and organ pathology, cellular genomics is making Garvan’s genomics and epigenetics research even more beneficial to everyone’s health.

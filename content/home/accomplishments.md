@@ -37,8 +37,7 @@ The Garvan Institute of Medical Research brings together world leading basic and
 
 Our mission is to harness all the information encoded in our genome to better diagnose, treat, predict and prevent disease. Garvan’s research has global impact. Our scientists pioneer discoveries across four intersecting research themes. We lead the field in medical genomics, epigenetics, and cellular genomics; cancer; diseases of immunity and inflammation; and diseases of ageing affecting bone, brain and metabolism.
 
-## [Garvan-Weizmann Centre for Cellular Genomics](https://www.garvan.org.au/research/garvan-weizmann)
-![](https://research.unsw.edu.au/cellulargenomicsfutures/sites/default/files/gbb-uploads/GWCCG%20logo-jle1fy.png)
+### [Garvan-Weizmann Centre for Cellular Genomics](https://www.garvan.org.au/research/garvan-weizmann)
 The Garvan-Weizmann Centre for Cellular Genomics is a research centre and service provider focused on understanding how our inherited DNA sequence is copied and  put into action in each of the 3 trillion nucleated cells of our body. We reveal the genomic details of individuals cells to better help doctors diagnose and treat diseases.
 
 Every cell and every organ in our body is assembled from a different combination of molecules encoded in our genome. Errors in those molecules can change the function of cells. Identifying and understanding these errors is central to almost every unsolved disease, from cancer to immune and inflammatory diseases to those of ageing in bone, brain and metabolism.

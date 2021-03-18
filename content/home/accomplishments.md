@@ -31,14 +31,14 @@ My central scientific interest has been to understand the genetic architecture o
 
 I am a post doc in Sara's group, working on the underlying mechanisms of autoimmune disorders and why the majority of patients are female. While this field is new to me (I worked on neurotoxic algae genetics for my PhD), I am painfully aware of the often dismissive and inadequate treatment spoonies receive from the medical community. I am immunocompromised, suffer from fibromyalgia and chronic fatigue syndrome and I would really like to use my training to help improve my fellow patients' lives and diagnostic journeys.
 
-# Garvan Institute of Medical Research
-
+# [Garvan Institute of Medical Research](https://www.garvan.org.au/)
+!(https://upload.wikimedia.org/wikipedia/en/d/d3/Garvan_Institute_of_Medical_Research.png)
 The Garvan Institute of Medical Research brings together world leading basic and translational researchers with expert clinicians. We are patient focused. Our researchers break down the barriers between traditional scientific disciplines to find solutions to disease.
 
 Our mission is to harness all the information encoded in our genome to better diagnose, treat, predict and prevent disease. Garvan’s research has global impact. Our scientists pioneer discoveries across four intersecting research themes. We lead the field in medical genomics, epigenetics, and cellular genomics; cancer; diseases of immunity and inflammation; and diseases of ageing affecting bone, brain and metabolism.
 
-## Garvan-Weizmann Centre for Cellular Genomics
-
+## [Garvan-Weizmann Centre for Cellular Genomics](https://www.garvan.org.au/research/garvan-weizmann)
+!(https://research.unsw.edu.au/cellulargenomicsfutures/sites/default/files/gbb-uploads/GWCCG%20logo-jle1fy.png)
 The Garvan-Weizmann Centre for Cellular Genomics is a research centre and service provider focused on understanding how our inherited DNA sequence is copied and  put into action in each of the 3 trillion nucleated cells of our body. We reveal the genomic details of individuals cells to better help doctors diagnose and treat diseases.
 
 Every cell and every organ in our body is assembled from a different combination of molecules encoded in our genome. Errors in those molecules can change the function of cells. Identifying and understanding these errors is central to almost every unsolved disease, from cancer to immune and inflammatory diseases to those of ageing in bone, brain and metabolism.

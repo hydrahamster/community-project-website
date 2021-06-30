@@ -1,5 +1,5 @@
 ---
-title: Participation consent information
+title: Autoimmune disorder community survey and participation information
 subtitle: What does it mean to participate in the survey, and how can you opt out if you change your mind? Find out here!
 
 # Summary for listings and search engines

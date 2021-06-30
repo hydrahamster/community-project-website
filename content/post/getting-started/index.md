@@ -9,10 +9,10 @@ summary: What does it mean to participate in the survey, and how can you opt out
 projects: []
 
 # Date published
-date: "2021-02-10"
+date: "2021-02-02"
 
 # Date updated
-lastmod: "2021-02-10"
+lastmod: "2021-07-02"
 
 # Is this an unpublished draft?
 draft: false

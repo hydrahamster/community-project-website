@@ -17,12 +17,12 @@ summary: Twitter activity around science, autoimmune communties and generally th
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021"
+date: "2021-07-02"
 date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ""
+publishDate: "2021-02-02"
 
 authors: []
 tags: []

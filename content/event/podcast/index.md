@@ -17,12 +17,12 @@ summary: Future link to the Chronically Fully Sick podcast episode
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ""
+date: "2021-07-02"
 date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: ""
+publishDate: "2021-02-02"
 
 authors: []
 tags: []
@@ -59,13 +59,15 @@ featured: false
 #projects:
 #- example
 
+## put below when ep is published##
+#{{< icon name="arrow-circle-right" pack="fas" >}} [Episode featuring the autoimmune community project](https://www.chronicallyfullysick.com/)
 ---
 ### Chronically Fully Sick 
 #### Podcast by Chloe Sargeant & Jo Nilson 
 
 
 
-{{< icon name="arrow-circle-right" pack="fas" >}} [Episode featuring the autoimmune community project](https://www.chronicallyfullysick.com/)
+Discussion of the project and survey will be featured in the spoonie hotline segment in the near future {{< icon name="heart" pack="fas" >}}
 
 
 {{< icon name="arrow-circle-right" pack="fas" >}} [Listen to the whole series!](https://www.chronicallyfullysick.com/)

@@ -1,5 +1,5 @@
 ---
-title: Placeholder for social media activity
+title: Spoonie hotline feature
 
 #event: Wowchemy Conference
 #event_url: https://example.org
@@ -12,17 +12,17 @@ title: Placeholder for social media activity
 #  postcode: '94305'
 #  country: United States
 
-summary: Links to twitter campaign, Chronically Fully Sick podcast appearance and posters.
-abstract: "Links to twitter campaign, Chronically Fully Sick podcast appearance and posters"
+summary: Future link to the Chronically Fully Sick podcast episode
+#abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-15"
+date: ""
 date_end: ""
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 
 authors: []
 tags: []
@@ -60,5 +60,13 @@ featured: false
 #- example
 
 ---
+### Chronically Fully Sick 
+#### Podcast by Chloe Sargeant & Jo Nilson 
 
-post different social media interactions in this section
+
+
+{{< icon name="arrow-circle-right" pack="fas" >}} [Episode featuring the autoimmune community project](https://www.chronicallyfullysick.com/)
+
+
+{{< icon name="arrow-circle-right" pack="fas" >}} [Listen to the whole series!](https://www.chronicallyfullysick.com/)
+

@@ -32,7 +32,7 @@ My central scientific interest has been to understand the genetic architecture o
 I am a post doc in Sara's group, working on the underlying mechanisms of autoimmune disorders and why the majority of patients are female. While this field is new to me (I worked on neurotoxic algae genetics for my PhD), I am painfully aware of the often dismissive and inadequate treatment spoonies receive from the medical community. I am immunocompromised, suffer from fibromyalgia and chronic fatigue syndrome and I would really like to use my training to help improve my fellow patients' lives and diagnostic journeys.
 
 ## [Garvan Institute of Medical Research](https://www.garvan.org.au/)
-![](https://upload.wikimedia.org/wikipedia/en/d/d3/Garvan_Institute_of_Medical_Research.png)
+{{< figure src="garvan_transparent.png" >}}
 The Garvan Institute of Medical Research brings together world leading basic and translational researchers with expert clinicians. We are patient focused. Our researchers break down the barriers between traditional scientific disciplines to find solutions to disease.
 
 Our mission is to harness all the information encoded in our genome to better diagnose, treat, predict and prevent disease. Garvan’s research has global impact. Our scientists pioneer discoveries across four intersecting research themes. We lead the field in medical genomics, epigenetics, and cellular genomics; cancer; diseases of immunity and inflammation; and diseases of ageing affecting bone, brain and metabolism.

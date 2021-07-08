@@ -14,9 +14,14 @@
   weight = 20
 
 [[main]]
+  name = "Autoimmunity"
+  url = "#experience"
+  weight = 30
+
+[[main]]
   name = "Researchers"
   url = "#accomplishments"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Consent"

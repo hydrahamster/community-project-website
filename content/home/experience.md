@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: experience
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -43,6 +43,32 @@ date_format: Jan 2006
 #    date_start: '2016-01-01'
 #    date_end: '2016-12-31'
 #    description: Taught electronic engineering and researched semiconductor physics.
+content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: autoimm
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 2
+  # Filter on criteria
+  filters:
+    author: ""
+    category: ""
+    tag: ""
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+    publication_type: ""
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
 ---
 Our immune system protects our bodies against pathogens. 
 Pathogens are excellent at rapidly changing and adapting (think influenza seasons and SARS-CoV-2 variants), so our immune system has to rapidly adapt too to maintain our defences. 

@@ -44,6 +44,8 @@ Whether common or rare, autoimmune disorders tend to have a comprehensive networ
 These present excellent resources to better understand the nature of the disorder(s), current state of knowledge and shared lived experiences. 
 It is impossible to cover a full breadth of the resources available due to the sheer volume and changes in classification, however this section should give a good starting point to comprehend the diversity of illnesses, co-morbidities and support structures.
 
+### [A comprehensive and externally curated list of currently recognized autoimmune disorders](https://autoimmunediseaselist.com/)
+
 ### [Arthritis Australia](https://arthritisaustralia.com.au/types-of-arthritis/rheumatoid-arthritis/)
 Non-for-profit organization focusing on arthritis in general, with rheumatoid arthritis as a subset. They discuss symptoms, diagnosis and next steps for patients to create an action plan.
 
@@ -77,7 +79,5 @@ A national voice for people with multiple sclerosis, who focus on advocacy, awar
 
 ### [Rare Voices Australia](https://rarevoices.org.au/)
 Peak body for Australians living with rare diseases, including a subset of autoimmune disorders. Collaboratively engaged in the National Strategic Action Plan for Rare Diseases.
-
-### [A comprehensive and externally curated list of currently recognized autoimmune disorders](https://autoimmunediseaselist.com/)
 
 #### Didn't find resources for the autoimmune disorder you were looking for? Get in touch if you want a hand and we'll have a look.

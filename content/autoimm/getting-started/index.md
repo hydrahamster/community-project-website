@@ -42,6 +42,14 @@ image:
 ---
 Whether common or rare, autoimmune disorders tend to have a comprehensive network of support organizations which range from registered charities, funded research bodies, to patient support groups groups. 
 These present a font of resources to better understand the nature of the disorder(s), current state of knowledge and shared lived experiences. 
-It is impossible to cover a full breadth of the resources available due to the sheer volume and changes in classification, however this section should give a good starting point to comprehend the diversity of illnesses and support structures.
+It is impossible to cover a full breadth of the resources available due to the sheer volume and changes in classification, however this section should give a good starting point to comprehend the diversity of illnesses, co-morbidities and support structures.
+
+### [Australian Addison's Disease Association](https://addisons.org.au/) 
+A charity providing information and latest research information for Addison's disease patients and medical professionals
+
+### [Emerge Australia](https://www.emerge.org.au/)
+A charity focused on myalgic encephalomyelitis/chronic fatigue syndrome including a patient biobank and registry
+### []()
+### []()
 
 ## [Comprehensive and externally curated list of currently recognized autoimmune disorders](https://autoimmunediseaselist.com/)

@@ -40,18 +40,18 @@ image:
 #- Demo
 #- 教程
 ---
-Whether common or rare, autoimmune disorders tend to have a comprehensive network of support organizations which range from registered charities, funded research bodies, to patient support groups groups. 
-These present a font of resources to better understand the nature of the disorder(s), current state of knowledge and shared lived experiences. 
+Whether common or rare, autoimmune disorders tend to have a comprehensive network of support organizations which range from registered charities, to funded research bodies, and patient support groups. 
+These present excellent resources to better understand the nature of the disorder(s), current state of knowledge and shared lived experiences. 
 It is impossible to cover a full breadth of the resources available due to the sheer volume and changes in classification, however this section should give a good starting point to comprehend the diversity of illnesses, co-morbidities and support structures.
 
 ### [Arthritis Australia](https://arthritisaustralia.com.au/types-of-arthritis/rheumatoid-arthritis/)
-Non-for-profit organization focusing on arthritis in general, with rheumatoid arthritis as a subset. They discuss symptoms, diagnosis and next steps for patients to create an action plan
+Non-for-profit organization focusing on arthritis in general, with rheumatoid arthritis as a subset. They discuss symptoms, diagnosis and next steps for patients to create an action plan.
 
 ### [The Australasian Society of Clinical Immunology and Allergy](https://www.allergy.org.au/patients/autoimmunity/autoimmune-diseases)
 Professional body promoting the highest standard of medical practice, training, education and research, to improve the health and quality of life of people with immune system disorders.
 
 ### [Australian Addison's Disease Association](https://addisons.org.au/) 
-A charity providing information and latest research information for Addison's disease patients and medical professionals
+A charity providing information and latest research information for Addison's disease patients and medical professionals.
 
 ### [Australian Crohn’s and Colitis Association ](https://www.crohnsandcolitis.com.au/)
 Charity organization focused on patient education, providing resources for lifestyle improvements, advocacy and research.

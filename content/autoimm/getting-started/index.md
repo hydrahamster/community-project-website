@@ -40,6 +40,8 @@ image:
 #- Demo
 #- 教程
 ---
-## Various links
+Whether common or rare, autoimmune disorders tend to have a comprehensive network of support organizations which range from registered charities, funded research bodies, to patient support groups groups. 
+These present a font of resources to better understand the nature of the disorder(s), current state of knowledge and shared lived experiences. 
+It is impossible to cover a full breadth of the resources available due to the sheer volume and changes in classification, however this section should give a good starting point to comprehend the diversity of illnesses and support structures.
 
-# Sound good? Take the [survey!](https://redcap.gimr.garvan.org.au/surveys/?s=DJWTL9FAEX)
+## [Comprehensive and externally curated list of currently recognized autoimmune disorders](https://autoimmunediseaselist.com/)

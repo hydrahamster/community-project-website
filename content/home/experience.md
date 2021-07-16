@@ -72,9 +72,9 @@ design:
 ---
 Our immune system protects our bodies against pathogens. 
 Pathogens are excellent at rapidly changing and adapting (think influenza seasons and SARS-CoV-2 variants), so our immune system has to rapidly adapt too to maintain our defences. 
-However, this can go wrong and rather than targeting foreign invaders, the immune sytem can start attacking our own cells. 
-This causes inflamation, tissue and organ damage, which is referred to as autoimmunity. 
-There are over 100 autoimmune disorders (e.g. lupus, rheumatoid athritis, multiple sclerosis), which can affect any part of our body and cause systemic, debilitating or even fatal illness.
+However, this can go wrong and rather than targeting foreign invaders, the immune system can start attacking our own cells. 
+This causes inflammation, tissue and organ damage, which is referred to as autoimmunity. 
+There are over 100 autoimmune disorders (e.g. lupus, rheumatoid arthritis, multiple sclerosis), which can affect any part of our body and cause systemic, debilitating or even fatal illness.
 Symptoms can vary between patients with the same illness, or be similar despite patients having different illnesses. 
 This makes diagnosis difficult, time intensive and fraught with uncertainty.
 

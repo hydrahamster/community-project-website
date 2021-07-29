@@ -60,15 +60,12 @@ featured: false
 #- example
 
 ## put below when ep is published##
-#{{< icon name="arrow-circle-right" pack="fas" >}} [Episode featuring the autoimmune community project](https://www.chronicallyfullysick.com/)
+#
 ---
 ### Chronically Fully Sick 
 #### Podcast by Chloe Sargeant & Jo Nilson 
 
+{{< icon name="arrow-circle-right" pack="fas" >}} [Episode featuring the autoimmune community project on Spotify](https://open.spotify.com/episode/03LZbXa7nUZBNbLJ9brDzy?si=4a9c0bc5babe4700)
 
-
-Discussion of the project and survey will be featured in the spoonie hotline segment in the near future {{< icon name="heart" pack="fas" >}}
-
-
-{{< icon name="arrow-circle-right" pack="fas" >}} [Listen to the whole series!](https://www.chronicallyfullysick.com/)
+{{< icon name="arrow-circle-right" pack="fas" >}} [Listen to the whole series online!](https://www.chronicallyfullysick.com/)
 

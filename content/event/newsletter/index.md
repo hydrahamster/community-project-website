@@ -1,5 +1,5 @@
 ---
-title: Chronically Fully Sick podcast
+title: Newsletters and features
 
 #event: Wowchemy Conference
 #event_url: https://example.org
@@ -12,7 +12,7 @@ title: Chronically Fully Sick podcast
 #  postcode: '94305'
 #  country: United States
 
-summary: Spoonie hotline feature
+summary: Organizations that have featured the project
 #abstract: ""
 
 # Talk start and end times.
@@ -62,10 +62,9 @@ featured: false
 ## put below when ep is published##
 #
 ---
-### Chronically Fully Sick 
-#### Podcast by Chloe Sargeant & Jo Nilson 
+### Organizations that have featured the project
 
-{{< icon name="arrow-circle-right" pack="fas" >}} [Episode featuring the autoimmune community project on Spotify](https://open.spotify.com/episode/03LZbXa7nUZBNbLJ9brDzy?si=4a9c0bc5babe4700)
+{{< icon name="arrow-circle-right" pack="fas" >}} [MS Research Australia Clinical Trials Network](https://mstrials.org.au/autoimmunity-and-health-quantifying-diagnosis/)
 
-{{< icon name="arrow-circle-right" pack="fas" >}} [Listen to the whole series online!](https://www.chronicallyfullysick.com/)
+
 

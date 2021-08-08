@@ -83,4 +83,18 @@ Did you know around 12% of Australians suffer from an autoimmune disease? And th
 
 We think that needs to change. To do that, we have designed a survey to capture the experiences of the Australian Spoonie community and we hope you help us gather this information - the more we can collate, the clearer any trends around medication, mental health and diagnosis will be. So, please help us document our collective life stories and write them into the scientific literature, so patients can be treated more adequately.
 
-# [Survey](https://redcap.gimr.garvan.org.au/surveys/?s=DJWTL9FAEX)
+### If you are:
+* Currently residing in Australia
+* 18 years old or older
+* have any chronic illness (if not on the list, please out into _Other_ section), including
+    * ME/CFS
+    * MS
+    * Coeliac
+    * EDS
+    * POTS
+* or are currently healthy
+* do not have a history of a psychological illness or condition such as to interfere with the patient's ability to understand the requirements of the study
+
+#### then add your voice to patient advocacy by filling out the 
+
+# {{< icon name="arrow-circle-right" pack="fas" >}}  [Survey](https://redcap.gimr.garvan.org.au/surveys/?s=DJWTL9FAEX)

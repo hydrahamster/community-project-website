@@ -93,7 +93,7 @@ We think that needs to change. To do that, we have designed a survey to capture 
     * EDS
     * POTS
 * or are currently healthy
-* do not have a history of a psychological illness or condition such as to interfere with the patient's ability to understand the requirements of the study
+* do not have a history of a psychological illness or condition such as to interfere with the patient's ability to understand the requirements of the study or preclude autonomy to sign legal documents
 
 #### then add your voice to patient advocacy by filling out the 
 

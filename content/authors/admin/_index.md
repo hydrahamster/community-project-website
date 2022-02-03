@@ -86,7 +86,7 @@ We think that needs to change. To do that, we have designed a survey to capture 
 ### If you are:
 * Currently residing in Australia
 * 18 years old or older
-* have any chronic illness (if not on the list, please out into _Other_ section), including
+* have any chronic illness (if not on the list, please put into _Other_ section), including
     * ME/CFS
     * MS
     * Coeliac
@@ -98,3 +98,5 @@ We think that needs to change. To do that, we have designed a survey to capture 
 #### then add your voice to patient advocacy by filling out the 
 
 # {{< icon name="arrow-circle-right" pack="fas" >}}  [Survey](https://redcap.gimr.garvan.org.au/surveys/?s=DJWTL9FAEX)
+
+Survey is open for participation until June 2022. Please share with healthy controls and chronic folk alike, the further this project reaches the stronger any trends we can report will be. Thank you!

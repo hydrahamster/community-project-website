@@ -29,7 +29,7 @@ My central scientific interest has been to understand the genetic architecture o
 # [Dr. Anna Liza Kretzschmar](https://hydra-hamster.netlify.app/) 
 {{< figure src="Liza.jpeg" >}}
 
-I am a post doc in Sara's group, working on the underlying mechanisms of autoimmune disorders and why the majority of patients are female. While this field is new to me (I worked on neurotoxic algae genetics for my PhD), I am painfully aware of the often dismissive and inadequate treatment spoonies receive from the medical community. I am immunocompromised, suffer from fibromyalgia and chronic fatigue syndrome and I would really like to use my training to help improve my fellow patients' lives and diagnostic journeys.
+I am a post doc in Sara's Gene Networks in Disease group. My interest is in the underlying genetic mechanisms of autoimmunity and why the prevalence of patients are female, as well a bridging patient advocacy and medical research. I am a bioinformatician living with ME/CFS, fibromyalgia and a compromised immune system. As such I am aware of the inadequate treatment chronically ill folk often receive from the medical community and I want to use my training to help improve my fellow patients' lives and diagnostic journeys.
 
 ## [Garvan Institute of Medical Research](https://www.garvan.org.au/)
 {{< figure src="garvan_transparent.png" >}}
